@@ -1,0 +1,32 @@
+# ── Model checkpoints (hosted on Google Drive, downloaded at runtime) ──
+checkpoints/*.pth
+*.pth
+
+# ── WandB experiment logs ──
+wandb/
+
+# ── Python cache ──
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── IDE / editor ──
+.idea/
+.vscode/
+*.swp
+
+# ── Virtual environments ──
+.venv/
+venv/
+.env/
+env/
+
+# ── Build artifacts ──
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── OS noise ──
+.DS_Store
+Thumbs.db
