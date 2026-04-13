@@ -10,9 +10,9 @@ Experiment tracking is done via **Weights & Biases (WandB)**.
 
 ---
 
-```Github--https://github.com/suryapratap2002/DA6401_Assignment_2_AM24M015 ```
+Github--```https://github.com/suryapratap2002/DA6401_Assignment_2_AM24M015 ```
 
-```Wandb Report-- ```
+Wandb Report-- ```https://api-jungle.wandb.ai/links/spsinghiitian2020-iitmaana/2vi2w6on```
 
 ## Project Structure
 
